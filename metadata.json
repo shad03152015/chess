@@ -1,0 +1,5 @@
+{
+  "name": "React 3D Chess",
+  "description": "An interactive 3D chess game built with React, Three.js, and Tailwind CSS. Players can rotate the board, select pieces, see valid moves, and play a full game of chess in a beautifully rendered 3D environment.",
+  "requestFramePermissions": []
+}
